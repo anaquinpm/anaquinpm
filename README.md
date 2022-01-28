@@ -24,6 +24,7 @@ const Pablo = {
 <br>
 <a href="https://www.linkedin.com/in/pablo-martín-anaquín-24b28825/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-anaquinpm-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:anaquinpm@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anaquinpm@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://twitter.com/anaquinpm"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-anaquinpm-blue?style=flat-square&logo=twitter"></a>
 
 <br>
 <br>
