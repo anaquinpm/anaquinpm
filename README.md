@@ -26,7 +26,7 @@ const Pablo = {
 <a href="mailto:anaquinpm@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anaquinpm@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://twitter.com/anaquinpm"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-anaquinpm-blue?style=flat-square&logo=twitter"></a>
 
-<h3>  Take a look at these repositories </h3>
+<h3> 👓 Take a look at these repositories 🔎 </h3>
 <br>
 
 - Front-End
