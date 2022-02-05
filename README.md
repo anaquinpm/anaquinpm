@@ -20,11 +20,20 @@ const Pablo = {
 };
 ```
 
-<h3> 🤝🏻 Contact Me </h3>
+<h3> 🤝🏻 Contact Me 📫 </h3>
 <br>
 <a href="https://www.linkedin.com/in/pablo-martín-anaquín-24b28825/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-anaquinpm-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:anaquinpm@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anaquinpm@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://twitter.com/anaquinpm"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-anaquinpm-blue?style=flat-square&logo=twitter"></a>
+
+<h3>  Take a look at these repositories </h3>
+<br>
+
+- Front-End
+  - [JS - To-Do List](https://github.com/anaquinpm/jstodo)
+  - [JS - Countdown timer](https://github.com/anaquinpm/countdownjs)
+  - [ReactJs - Movie Trailers](https://github.com/anaquinpm/movietrailers)
+  
 
 <br>
 <br>
