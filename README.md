@@ -4,18 +4,20 @@
 const Pablo = {
   pronouns: "He" | "Him",
   askMeAbout: ["web dev", "Ops", "IT"],
-  technologies: {
+  devOps: {
     frontEnd: {
       js: ["Vanilla","React"],
       css: ["sass"]
     },
     databases: ["MySql"],
-    Ops: {
-      OS: ["Linux", "Windows"],
-      containers: "Docker",
+    ops: {
+      os: ["Linux", "Windows"],
+      containers: "Docker & K8S",
+      cloud: ["aws", "Azure"],
       virtualization: "VMware",
       others: [git, bash]
     },
+    agileMetodology: SCRUM
   }
 };
 ```
