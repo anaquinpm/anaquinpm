@@ -30,11 +30,14 @@ const Pablo = {
 
 <h3> 👓 Take a look at these repositories 🔎 </h3>
 <br>
+
 - [Linux config files and more](https://github.com/anaquinpm/config)
+
 - Front-End
   - [JS - To-Do List](https://github.com/anaquinpm/jstodo)
   - [JS - Countdown timer](https://github.com/anaquinpm/countdownjs)
   - [ReactJs - Movie Trailers](https://github.com/anaquinpm/movietrailers)  
+
 - Notes
   - [Linux](https://github.com/anaquinpm/Linux)
   - [Shell/Bash](https://github.com/anaquinpm/shell)
