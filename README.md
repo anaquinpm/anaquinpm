@@ -13,7 +13,7 @@ const Pablo = {
     ops: {
       os: ["Linux", "Windows"],
       containers: "Docker & K8S",
-      cloud: ["aws", "Azure"],
+      cloud: ["AWS", "Azure"],
       virtualization: "VMware",
       others: [git, bash]
     },
