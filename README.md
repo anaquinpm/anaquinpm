@@ -156,17 +156,15 @@ const Pablo = {
 
 <div align="center">
 
+<!-- START_SECTION:repositories -->
 | Repository | Description | Topics |
-|:---:|:---:|:---|
-| **[📁 Config](https://github.com/anaquinpm/config)** | Linux configuration files & system setups | `linux` `config` `dotfiles` |
-| **[🐧 Linux](https://github.com/anaquinpm/Linux)** | Linux administration notes & guides | `linux` `administration` `tutorials` |
-| **[🔧 Shell](https://github.com/anaquinpm/shell)** | Bash & shell scripting collection | `bash` `scripting` `automation` |
-| **[🐍 Python](https://github.com/anaquinpm/python)** | Python learning & projects | `python` `scripts` |
-
-### Frontend Projects
-- **[🎬 Movie Trailers](https://github.com/anaquinpm/movietrailers)** - ReactJs | Modern UI
-- **[✅ To-Do List](https://github.com/anaquinpm/jstodo)** - Pure JavaScript | Web App
-- **[⏱️ Countdown Timer](https://github.com/anaquinpm/countdownjs)** - JavaScript | Vanilla
+|:---|:---|:---|
+| **[docker.metrics.monitor](https://github.com/anaquinpm/docker.metrics.monitor)** | A real-time telemetry dashboard from local Docker containers | Containers, Monitoring, Telemetry |
+| **[config](https://github.com/anaquinpm/config)** | Personal configuration files | — |
+| **[tutos](https://github.com/anaquinpm/tutos)** | Tutorials | — |
+| **[python](https://github.com/anaquinpm/python)** | Python coding references | — |
+| **[Linux](https://github.com/anaquinpm/Linux)** | Linux notes | — |
+<!-- END_SECTION:repositories -->
 
 </div>
 
